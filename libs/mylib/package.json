@@ -1,0 +1,7 @@
+{
+  "name": "@my-workspace/mylib",
+  "version": "0.0.1",
+  "dependencies": {
+    "@my-workspace/mylib2": "0.0.1"
+  }
+}
